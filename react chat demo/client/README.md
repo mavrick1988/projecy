@@ -1,10 +1,10 @@
-This app was created in react.js css and coded in vs code.
-packages included are node.js, socket.io-client, react hooks.
+This app was created in react.js ,node.js, css and coded in vs code.
+this package need to be installed,  socket.io-client.
 first you need to have CORS extension added and enabled on your browser so that the server can locate the frontend's url. 
 second, open your cmd prompt and locate the folder "/react chat demo/client"
-type "npm start" and your browser should open automatically.
+type and enter "npm i react-scripts", then type and enter "npm start" and your browser should open automatically.
 third, open another cmd prompt window and locate "react chat demo/server"
-type npm start and you should see now the server being initialized.
+type and enter "npm i express socket-io nodemon" then type and enter "npm start" and you should see now the server being initialized.
 fourth, when you see the app on your browse, login credentials are as follows: 
 Name: (Your name)
 Email:admin@admin.com
